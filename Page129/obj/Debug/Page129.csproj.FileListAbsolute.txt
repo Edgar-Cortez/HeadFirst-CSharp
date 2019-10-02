@@ -1,0 +1,10 @@
+C:\Users\Edgar\source\repos\HeadFirst-CSharp\Page129\bin\Debug\Page129.exe.config
+C:\Users\Edgar\source\repos\HeadFirst-CSharp\Page129\bin\Debug\Page129.exe
+C:\Users\Edgar\source\repos\HeadFirst-CSharp\Page129\bin\Debug\Page129.pdb
+C:\Users\Edgar\source\repos\HeadFirst-CSharp\Page129\obj\Debug\Page129.csprojAssemblyReference.cache
+C:\Users\Edgar\source\repos\HeadFirst-CSharp\Page129\obj\Debug\Page129.Form1.resources
+C:\Users\Edgar\source\repos\HeadFirst-CSharp\Page129\obj\Debug\Page129.Properties.Resources.resources
+C:\Users\Edgar\source\repos\HeadFirst-CSharp\Page129\obj\Debug\Page129.csproj.GenerateResource.cache
+C:\Users\Edgar\source\repos\HeadFirst-CSharp\Page129\obj\Debug\Page129.csproj.CoreCompileInputs.cache
+C:\Users\Edgar\source\repos\HeadFirst-CSharp\Page129\obj\Debug\Page129.exe
+C:\Users\Edgar\source\repos\HeadFirst-CSharp\Page129\obj\Debug\Page129.pdb

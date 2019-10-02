@@ -1,0 +1,5 @@
+C:\Users\Edgar\source\repos\HeadFirst-CSharp\Page146\obj\Debug\Page146.csprojAssemblyReference.cache
+C:\Users\Edgar\source\repos\HeadFirst-CSharp\Page146\obj\Debug\Page146.Form1.resources
+C:\Users\Edgar\source\repos\HeadFirst-CSharp\Page146\obj\Debug\Page146.Properties.Resources.resources
+C:\Users\Edgar\source\repos\HeadFirst-CSharp\Page146\obj\Debug\Page146.csproj.GenerateResource.cache
+C:\Users\Edgar\source\repos\HeadFirst-CSharp\Page146\obj\Debug\Page146.csproj.CoreCompileInputs.cache
