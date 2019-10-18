@@ -1,0 +1,10 @@
+C:\Users\eac0001\Documents\GitHub\HeadFirst-CSharp\SloppyJoesMenuMaker\bin\Debug\SloppyJoesMenuMaker.exe.config
+C:\Users\eac0001\Documents\GitHub\HeadFirst-CSharp\SloppyJoesMenuMaker\bin\Debug\SloppyJoesMenuMaker.exe
+C:\Users\eac0001\Documents\GitHub\HeadFirst-CSharp\SloppyJoesMenuMaker\bin\Debug\SloppyJoesMenuMaker.pdb
+C:\Users\eac0001\Documents\GitHub\HeadFirst-CSharp\SloppyJoesMenuMaker\obj\Debug\SloppyJoesMenuMaker.csprojAssemblyReference.cache
+C:\Users\eac0001\Documents\GitHub\HeadFirst-CSharp\SloppyJoesMenuMaker\obj\Debug\SloppyJoesMenuMaker.Form1.resources
+C:\Users\eac0001\Documents\GitHub\HeadFirst-CSharp\SloppyJoesMenuMaker\obj\Debug\SloppyJoesMenuMaker.Properties.Resources.resources
+C:\Users\eac0001\Documents\GitHub\HeadFirst-CSharp\SloppyJoesMenuMaker\obj\Debug\SloppyJoesMenuMaker.csproj.GenerateResource.cache
+C:\Users\eac0001\Documents\GitHub\HeadFirst-CSharp\SloppyJoesMenuMaker\obj\Debug\SloppyJoesMenuMaker.csproj.CoreCompileInputs.cache
+C:\Users\eac0001\Documents\GitHub\HeadFirst-CSharp\SloppyJoesMenuMaker\obj\Debug\SloppyJoesMenuMaker.exe
+C:\Users\eac0001\Documents\GitHub\HeadFirst-CSharp\SloppyJoesMenuMaker\obj\Debug\SloppyJoesMenuMaker.pdb

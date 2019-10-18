@@ -8,3 +8,13 @@ C:\Users\Edgar\source\repos\HeadFirst-CSharp\Page151\obj\Debug\Page151.csproj.Ge
 C:\Users\Edgar\source\repos\HeadFirst-CSharp\Page151\obj\Debug\Page151.csproj.CoreCompileInputs.cache
 C:\Users\Edgar\source\repos\HeadFirst-CSharp\Page151\obj\Debug\Page151.exe
 C:\Users\Edgar\source\repos\HeadFirst-CSharp\Page151\obj\Debug\Page151.pdb
+C:\Users\eac0001\Documents\GitHub\HeadFirst-CSharp\Page151\bin\Debug\Page151.exe.config
+C:\Users\eac0001\Documents\GitHub\HeadFirst-CSharp\Page151\bin\Debug\Page151.exe
+C:\Users\eac0001\Documents\GitHub\HeadFirst-CSharp\Page151\bin\Debug\Page151.pdb
+C:\Users\eac0001\Documents\GitHub\HeadFirst-CSharp\Page151\obj\Debug\Page151.csprojAssemblyReference.cache
+C:\Users\eac0001\Documents\GitHub\HeadFirst-CSharp\Page151\obj\Debug\Page151.Form1.resources
+C:\Users\eac0001\Documents\GitHub\HeadFirst-CSharp\Page151\obj\Debug\Page151.Properties.Resources.resources
+C:\Users\eac0001\Documents\GitHub\HeadFirst-CSharp\Page151\obj\Debug\Page151.csproj.GenerateResource.cache
+C:\Users\eac0001\Documents\GitHub\HeadFirst-CSharp\Page151\obj\Debug\Page151.csproj.CoreCompileInputs.cache
+C:\Users\eac0001\Documents\GitHub\HeadFirst-CSharp\Page151\obj\Debug\Page151.exe
+C:\Users\eac0001\Documents\GitHub\HeadFirst-CSharp\Page151\obj\Debug\Page151.pdb

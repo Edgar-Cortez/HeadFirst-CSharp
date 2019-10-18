@@ -1,0 +1,9 @@
+C:\Users\eac0001\Documents\GitHub\HeadFirst-CSharp\TypingGame\bin\Debug\TypingGame.exe.config
+C:\Users\eac0001\Documents\GitHub\HeadFirst-CSharp\TypingGame\bin\Debug\TypingGame.exe
+C:\Users\eac0001\Documents\GitHub\HeadFirst-CSharp\TypingGame\bin\Debug\TypingGame.pdb
+C:\Users\eac0001\Documents\GitHub\HeadFirst-CSharp\TypingGame\obj\Debug\TypingGame.Form1.resources
+C:\Users\eac0001\Documents\GitHub\HeadFirst-CSharp\TypingGame\obj\Debug\TypingGame.Properties.Resources.resources
+C:\Users\eac0001\Documents\GitHub\HeadFirst-CSharp\TypingGame\obj\Debug\TypingGame.csproj.GenerateResource.cache
+C:\Users\eac0001\Documents\GitHub\HeadFirst-CSharp\TypingGame\obj\Debug\TypingGame.csproj.CoreCompileInputs.cache
+C:\Users\eac0001\Documents\GitHub\HeadFirst-CSharp\TypingGame\obj\Debug\TypingGame.exe
+C:\Users\eac0001\Documents\GitHub\HeadFirst-CSharp\TypingGame\obj\Debug\TypingGame.pdb
