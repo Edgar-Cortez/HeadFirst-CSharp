@@ -24,11 +24,18 @@ namespace TypingGame
             // Add a random key to the ListBox
             listBox1.Items.Add((Keys)random.Next(65, 90));
 
+            // Ends the game if the amount of characters on screen passes 7
             if (listBox1.Items.Count > 7)
             {
                 listBox1.Items.Clear();
                 listBox1.Items.Add("Game Over");
                 timer1.Stop();
+
+                // Displays a message box to give the option to restart the game.
+                if ((MessageBox.Show("Would you like to play again?", "Message", MessageBoxButtons.YesNo)) == DialogResult.Yes)
+                {
+                    Application.Restart();
+                }
             }
         }
 
